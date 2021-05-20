@@ -1,0 +1,24 @@
+So you need help with this, huh? well i got some Q&A's right here for you!
+
+Q1 Is this illegal?
+A1 No, the most these can do is get you banned off of a discord server.
+
+Q2: So, what is this?
+A2: Go to the Introduction.txt in the same folder.
+
+Q3: These Crashers dont work.
+A3: Discord patches up these crashers and fixes them occasianally. But i do add crashers to the folder
+    every once in a while
+
+Q4: Why did you do this! This is bad for discord!
+A4: First of all, stop being such a karen. 2nd, check out Introduction.txt and Legal_Shit.txt 
+
+Q5: How do these videos crash discord?
+A5: Usually, when you play a "crasher" it is a video that is designed to crash you or someone else's 
+    discord client. when making a crasher, certain hex/RGB color values are edited into the video
+    in order for your monitor/pc to not be able to compute the certain pixel(s) that are edited with
+    this value. Then, discord crashes due to those pixel(s) not being computable. here is an example.
+    
+   RGB;(256,256,256) <- Those pixels dont exist, but with some coding you can make that pixel into a video
+                        that your computer cannot see, crashing discord.
+
